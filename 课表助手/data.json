@@ -1,0 +1,51 @@
+{
+  "users": {
+    "test": {
+      "password": "123",
+      "courses": [
+        {
+          "course_name": "高等数学",
+          "day_of_week": "周一",
+          "period": "",
+          "classroom": ""
+        },
+        {
+          "course_name": "高等数学",
+          "day_of_week": "周二",
+          "period": "1-2节",
+          "classroom": ""
+        },
+        {
+          "course_name": "高等数学",
+          "day_of_week": "周二",
+          "period": "1-2节",
+          "classroom": ""
+        },
+        {
+          "course_name": "高等数学",
+          "day_of_week": "周二",
+          "period": "1-2节",
+          "classroom": "教三301"
+        },
+        {
+          "course_name": "高等数学",
+          "day_of_week": "周二",
+          "period": "1-2节",
+          "classroom": "教三301"
+        },
+        {
+          "course_name": "测试课",
+          "day_of_week": "周四",
+          "period": "9-10",
+          "classroom": ""
+        },
+        {
+          "course_name": "测试课",
+          "day_of_week": "周四",
+          "period": "9-10",
+          "classroom": "教三301"
+        }
+      ]
+    }
+  }
+}
